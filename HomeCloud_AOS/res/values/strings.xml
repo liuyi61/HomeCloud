@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HomeCloud_AOS</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <!-- Application -->
+    <string name="app_name">HomeCloud</string>
+    <string name="action_settings">Setting</string>
+
+    <!-- Welcome Activity -->
+    <string name="welcome">Welcome</string>
+    <string name="status_wifi_connected">Wifi connected.</string>
+    <string name="status_disconnected">Connectivity lost.</string>
+    
+    <!-- TEST ONLY -->
+    <string name="test">TEST</string>
 
 </resources>
